@@ -328,6 +328,7 @@ footer nav {
   background-color: #fff;
   justify-content: center;
   width: 100%;
+  padding: 15px 0;
   margin: 0;
   height: 100%;
   font-weight: 500;
@@ -389,6 +390,7 @@ footer nav {
   .container1 {
     align-items: center;
     text-align: center;
+    gap: 10px;
   }
   .container1 h2 {
     font-size: 40px;
