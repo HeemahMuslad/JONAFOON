@@ -60,7 +60,7 @@ nav .logo {
 /* main */
 /* section 1 */
 .section1 {
-  background-image: url(/images/home-bck.png) !important;
+  background-image: url(../images/about-bck.png) !important;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -185,7 +185,7 @@ nav .logo {
 /* footer */
 
 footer nav {
-  background-image: url(/images/bottomNavImg.png) !important;
+  background-image: url(../images/bottomNavImg.png) !important;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
