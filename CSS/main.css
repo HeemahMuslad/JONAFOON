@@ -254,7 +254,7 @@ nav .logo {
 }
 /* footer */
 footer nav {
-  background-image: url(/images/bottomNavImg.png);
+  background-image: url(../images/bottomNavImg.png) !important;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
