@@ -5,13 +5,16 @@ This is a solution to the [JONAFOON Figma Design](https://www.figma.com/file/Lf7
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Pages](#Pages)
+- [Navigation](#Navigation)
+- [Responsiveness](#Responsiveness)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Brief Explaination of how the solution was built](### Brief Explaination of how the solution was built)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+- [Brief Explaination of how the solution was built](### Brief Explaination of how the solution was built)
+- [What I learned](#what-i-learned)
 
 
 ## Overview
