@@ -11,3 +11,7 @@ document.querySelectorAll(".link").forEach((link) =>
     navlink.classList.remove("active");
   })
 );
+document.querySelector(".main").addEventListener("click", () => {
+  hamburger.classList.remove("active");
+  navlink.classList.remove("active");
+});

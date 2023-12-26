@@ -209,7 +209,7 @@ footer nav {
   justify-content: center;
 }
 .footerLink h5 {
-  font-size: 24px;
+  font-size: 20px;
   color: #0083c4;
   font-weight: 600;
 }
@@ -290,8 +290,9 @@ footer nav {
   }
   /* navbar */
   .navLinks {
+    width: 70%;
     position: absolute;
-    right: -10%;
+    right: -16%;
     transition: 1s;
     top: -100%;
   }
@@ -300,18 +301,19 @@ footer nav {
     gap: 0;
     flex-direction: column;
     background-color: hsl(0, 0%, 98%);
-    width: 80%;
-    text-align: center;
+    width: 100%;
+    padding-left: 20px;
     z-index: 10;
   }
 
   .link {
-    margin: 16px 0;
+    margin: 30px 0;
   }
 
   .navLinks.active {
-    right: 0;
-    top: 150px;
+    left: -100;
+    /* right: 0; */
+    top: 50px;
     transform: translateX(-23%);
   }
   .navbar {
@@ -330,7 +332,7 @@ footer nav {
   .container1 p {
     font-size: 20px;
     line-height: 33px;
-    width: 80%;
+    width: 90%;
   }
   .btn {
     display: flex;
@@ -341,7 +343,7 @@ footer nav {
   /* section2 & 3 */
   .container2 h3,
   .container3 h3 {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 @media (max-width: 1030px) {
@@ -349,7 +351,6 @@ footer nav {
     display: flex;
     flex-direction: column;
     text-align: start;
-    align-items: center;
     justify-content: center;
   }
   .quote {
@@ -369,7 +370,9 @@ footer nav {
     float: none;
     width: 90%;
   }
-
+  .quote p {
+    width: 90%;
+  }
   .getQuote {
     flex-direction: column;
     gap: 30px;
@@ -404,9 +407,6 @@ footer nav {
     display: flex;
     flex-direction: column;
     gap: 50px;
-    width: 90%;
-  }
-  .quote p {
     width: 90%;
   }
 }
