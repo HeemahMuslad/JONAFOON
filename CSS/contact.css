@@ -236,7 +236,7 @@ footer nav {
   justify-content: center;
 }
 .footerLink h5 {
-  font-size: 24px;
+  font-size: 20px;
   color: #0083c4;
   font-weight: 600;
 }
@@ -383,15 +383,13 @@ footer nav {
   }
   .bottomNav {
     grid-template-columns: 1fr;
-    place-items: center;
+    place-items: start;
+  }
+  .social {
+    display: flex;
   }
   .bottomNav .footerLink {
-    align-items: center;
-    text-align: center;
-  }
-  .quickLink,
-  .office {
-    align-items: center;
+    align-items: start;
   }
 }
 
