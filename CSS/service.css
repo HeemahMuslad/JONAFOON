@@ -325,12 +325,12 @@ footer nav {
     text-align: center;
   }
   .container1 h2 {
-    font-size: 40px;
+    font-size: 30px;
     line-height: 60px;
-    width: 80%;
+    width: 100%;
   }
   .container1 p {
-    font-size: 20px;
+    font-size: 17px;
     line-height: 33px;
     width: 100%;
   }
@@ -378,9 +378,9 @@ footer nav {
     gap: 30px;
   }
   .getQuote h2 {
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
-    width: 80%;
+    width: 100%;
   }
   .bottomNav {
     grid-template-columns: 1fr;
@@ -395,12 +395,7 @@ footer nav {
 }
 @media (max-width: 400px) {
   /* section1 */
-  .container1 h2 {
-    font-size: 40px;
-  }
-  .container1 p {
-    font-size: 20px;
-  }
+
   .btn {
     display: flex;
     flex-direction: column;

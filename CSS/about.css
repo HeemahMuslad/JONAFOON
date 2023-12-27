@@ -345,9 +345,9 @@ footer nav {
     padding: 100px 0;
   }
   .container1 h2 {
-    width: 70%;
+    width: 100%;
 
-    font-size: 40px;
+    font-size: 30px;
     line-height: 50px;
   }
 
@@ -359,7 +359,7 @@ footer nav {
   }
   /* section2 & 3 */
   .container2 h3 {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 @media (max-width: 700px) {
@@ -396,16 +396,6 @@ footer nav {
 @media (max-width: 400px) {
   /* section1 */
 
-  .container1 h2 {
-    font-size: 40px;
-    width: 90%;
-  }
-  .container2 {
-    width: 100%;
-  }
-  .container1 p {
-    font-size: 20px;
-  }
   .goals {
     padding: 0;
   }
